@@ -1,5 +1,5 @@
 # Full-stack e-commerce platform where you can be  a seller  a buyer or both.
-Used technologies: TypeScript, React, NextJS, MongoDB.
+Used technologies: JS, React, NextJS, MongoDB.
 ------------------------------------------------------
 Project is deployed via vercel
 ------------------------------------------------------
