@@ -1,9 +1,9 @@
 # Full-stack e-commerce platform where you can be  a seller  a buyer or both.
 Used technologies: JS, React, NextJS, MongoDB.
 ------------------------------------------------------
-Project is deployed via vercel
+Project is deployed via Vercel
 ------------------------------------------------------
-type "npm run dev" in a VSCode terminal and enjoy the project
+type "npm run dev" in VSCode terminal and enjoy the project
  
 ------------------------------------------------------
 ![eccom](https://github.com/user-attachments/assets/228aa64f-4d98-4414-b3e9-9843e0a478c9)
